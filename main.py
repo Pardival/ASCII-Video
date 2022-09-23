@@ -26,7 +26,7 @@ def draw(image, new_width) :
 
     #TODO TO RENDER IN PYGAME
     # display_surface = pygame.display.set_mode((400, 400))
-    # font = pygame.font.SysFont('didot.ttc', 25)
+    # font = pygame.font.SysFont('didot.ttc', 9)
     # text = font.render(to_out, True, (255, 255, 255))
     # display_surface.fill((0, 0, 0))
     # textRect = text.get_rect()
